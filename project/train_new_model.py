@@ -58,7 +58,7 @@ with tf.device('/CPU:0'):
             show_predictions()
             print ('\nSample Prediction after epoch {}\n'.format(epoch+1))
 
-    EPOCHS = 1
+    EPOCHS = 20
     VAL_SUBSPLITS = 5
     VALIDATION_STEPS = info.splits['test'].num_examples//BATCH_SIZE//VAL_SUBSPLITS
     
