@@ -1,6 +1,6 @@
 # Semantic Segmentation on RGB images with Unet architecture
 ## Execution
-*Note: Since I run this model inside Anaconda environment, run.sh is made for usage inside Anaconda, using Linux built-in python would require modification.
+*Note: Since I run this model inside Anaconda environment, run.sh is made for usage inside Anaconda, using Linux built-in python would require modification. Also, I haven't test this build on Tensorflow < 2. so the code might have some error.
 1. Activate Anaconda 
 2. Run bash file inside /project file
 ## Comments
