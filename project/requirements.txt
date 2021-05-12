@@ -1,5 +1,5 @@
 Name			   Version		 			Build type/download chanel
-									(pypi is pip chanel, the rest 																	is conda build)
+									(pypi is pip chanel, the rest is conda build)
 
 cudatoolkit               10.1.243             				h6bb024c_0  
 cudnn                     7.6.5                				cuda10.1_0
