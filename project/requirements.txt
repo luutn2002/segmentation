@@ -1,0 +1,10 @@
+Name			   Version		 			Build type/download chanel
+									(pypi is pip chanel, the rest 									is conda build)
+
+cudatoolkit               10.1.243             			h6bb024c_0  
+cudnn                     7.6.5                			cuda10.1_0
+tensorflow                2.2.0           	 			gpu_py38hb782248_0
+tensorflow-datasets       4.2.0                			pypi_0 pypi
+tensorflow-examples  	   a06a3cdc19cc9a79f19d850c43dec49715af03c8-  pypi_0 pypi
+matplotlib                3.4.1                			pypi_0    pypi
+python                    3.8.5                			h7579374_1
